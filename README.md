@@ -17,8 +17,7 @@ The Recipe Organizer app is designed to help you keep track of all your favorite
 **Responsive Layout:** Works across multiple devices for convenient recipe management.
 
 ### How to Use
-1. **Create a Recipe**
-   
+1. **Create a Recipe**   
 * Go to the "Add Recipe" section.
 * Fill in the recipe name, ingredients, and instructions fields.
 * Optionally, add extra details like cooking time, serving size, and difficulty level.
